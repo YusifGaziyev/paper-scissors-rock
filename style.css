@@ -1,0 +1,15 @@
+img{
+    width: 200px;
+    height: 200px;
+   border-radius: 50%;
+    box-shadow: 3px 5px 12px rgba(0, 0, 0, .3);
+    object-fit: contain;
+
+}
+
+#result {
+    width: 200px;
+    height: 200px;
+    border: 2px solid #dedede;
+    box-shadow: 5px 10px 3px rgba(0, 0, 0, .3);
+}
