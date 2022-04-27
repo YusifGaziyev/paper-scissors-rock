@@ -46,3 +46,11 @@ console.log(say)
 
 // const siyahi = ["paper.png","scissors.png", "rock.png"]
 // console.log(siyahi[2])
+
+var name = "Yusif"
+var CEO_NAME = "Anvar Khalid"
+var EXPERT_COMMENTS = name + " " + "adli telebe" + CEO_NAME + " " + " reyine esasen kursu bitirmishdir " 
+console.log(EXPERT_COMMENTS);
+var EXPERT_COMMENTS = `Melumat bazasi yenilendi
+${CEO_NAME} ${name} `
+console.log(EXPERT_COMMENTS)
